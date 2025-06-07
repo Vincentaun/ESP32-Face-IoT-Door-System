@@ -61,6 +61,8 @@
 
 - 未來可整合雙重驗證（Two-Factor Authentication, 2FA）或生物識別技術。
 
+---
+
 ## **📂 專案檔案結構**
 ```
 ESP32-Face-IoT-Door-System/
@@ -74,6 +76,8 @@ ESP32-Face-IoT-Door-System/
 │   └── iot_project.sql
 └── README.md
 ```
+
+---
 
 ## **⚡ 快速開始**
 
@@ -94,6 +98,8 @@ streamlit run app.py
 
 將 Arduino 程式上傳至 ESP32-CAM 並啟動設備
 
+---
+
 ## **🎯 未來展望**
 
 - ☁️ 整合 Wi-Fi 遠端管理與通知
@@ -104,6 +110,8 @@ streamlit run app.py
 
 - 🔗 將數據串接雲端與區塊鏈驗證
 
+---
+
 ## **🏫 應用場域**
 
 - 🏠 家庭住宅門禁
@@ -112,11 +120,16 @@ streamlit run app.py
 
 - 🏢 辦公室內部控管
 
+---
+
 ## **📝 聯絡作者**
 
 如有任何疑問或建議，歡迎透過以下方式聯絡：<br/>
 Email: Vincent: vincentaun123@gmail.com / 111B16885@mailst.cjcu.edu.tw <br/>
 &emsp;&emsp;&emsp;LIN, YI-CHENG: 111B15219@mailst.cjcu.edu.tw
+
+---
+
 ## **📄 授權條款**
 
 本專案採用 MIT License 開源授權條款。
