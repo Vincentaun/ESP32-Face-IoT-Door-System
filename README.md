@@ -67,7 +67,7 @@ LED 指示燈、蜂鳴器、伺服馬達之互動回饋。
 未來可整合雙重驗證（Two-Factor Authentication, 2FA）或生物識別技術。
 
 ## **📂 專案檔案結構**
-
+```
 ESP32-Face-IoT-Door-System/
 ├── Arduino/
 │   └── face_recognition_control.ino
@@ -78,6 +78,7 @@ ESP32-Face-IoT-Door-System/
 ├── Database/
 │   └── iot_project.sql
 └── README.md
+```
 
 ## **⚡ 快速開始**
 
@@ -119,9 +120,10 @@ streamlit run app.py
 ## **📝 聯絡作者**
 
 如有任何疑問或建議，歡迎透過以下方式聯絡：
-
-Email: Vincent: vincentaun123@gmail.com / LIN, YI-CHENG: 111B16885@mailst.cjcu.edu.tw
-
+```
+Email: Vincent: vincentaun123@gmail.com
+       LIN, YI-CHENG: 111B16885@mailst.cjcu.edu.tw
+```
 ## **📄 授權條款**
 
 本專案採用 MIT License 開源授權條款。
