@@ -6,8 +6,8 @@ import urllib.parse
 def get_connection():
     return pymysql.connect(
         host='localhost',
-        user='root',
-        password='Vincentaun-1128',
+        user='Your username',
+        password='Your password',
         db='iot_project',
         charset='utf8mb4'
     )
