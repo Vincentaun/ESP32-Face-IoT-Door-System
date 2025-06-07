@@ -120,10 +120,10 @@ streamlit run app.py
 ## **📝 聯絡作者**
 
 如有任何疑問或建議，歡迎透過以下方式聯絡：
-```
+
 Email: Vincent: vincentaun123@gmail.com
-       LIN, YI-CHENG: 111B16885@mailst.cjcu.edu.tw
-```
+LIN, YI-CHENG: 111B15219@mailst.cjcu.edu.tw
+
 ## **📄 授權條款**
 
 本專案採用 MIT License 開源授權條款。
