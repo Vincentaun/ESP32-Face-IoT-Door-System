@@ -82,16 +82,19 @@ ESP32-Face-IoT-Door-System/
 ## **⚡ 快速開始**
 
 安裝 Python 環境與必要套件
-
+```
 pip install -r requirements.txt
+```
 
 匯入資料庫 (iot_project.sql)
-
+```
 mysql -u root -p < iot_project.sql
+```
 
 啟動網頁視覺化介面
-
+```
 streamlit run app.py
+```
 
 將 Arduino 程式上傳至 ESP32-CAM 並啟動設備
 
@@ -117,8 +120,7 @@ streamlit run app.py
 
 如有任何疑問或建議，歡迎透過以下方式聯絡：
 
-Email: Vincent: vincentaun123@gmail.com / 111B16885@mailst.cjcu.edu.tw 
-       LIN, YI-CHENG: 111B15219@mailst.cjcu.edu.tw
+Email: Vincent: vincentaun123@gmail.com / LIN, YI-CHENG: 111B16885@mailst.cjcu.edu.tw
 
 ## **📄 授權條款**
 
